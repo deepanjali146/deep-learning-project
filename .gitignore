@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Secrets
+.env
+
+# Dataset files
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary files
+*.tmp

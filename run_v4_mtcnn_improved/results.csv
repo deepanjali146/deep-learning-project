@@ -1,0 +1,7 @@
+model,test_set,n,AUC,Accuracy,BalancedAccuracy,F1,RealRecall,FakeRecall
+ViT (no aug),Intra: FF++ test,1600,0.9369,0.8812,0.8812,0.8805,0.8875,0.875
+ViT (no aug),Cross: OpenForensics,3000,0.4647,0.5027,0.5027,0.1532,0.9153,0.09
+ViT (no aug),Cross: 140k Real and Fake Faces,3000,0.4075,0.4567,0.4567,0.0263,0.8987,0.0147
+RViT-D,Intra: FF++ test,1600,0.8776,0.7956,0.7956,0.7968,0.79,0.8012
+RViT-D,Cross: OpenForensics,3000,0.4441,0.4987,0.4987,0.3011,0.7813,0.216
+RViT-D,Cross: 140k Real and Fake Faces,3000,0.3862,0.443,0.443,0.0844,0.8347,0.0513

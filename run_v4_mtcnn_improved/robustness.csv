@@ -1,0 +1,181 @@
+degradation,level,test_set,model,AUC
+CS,1,Intra: FF++ test,ViT (no aug),0.8881262257086825
+CS,1,Intra: FF++ test,RViT-D,0.8870676591192727
+CS,1,Cross: OpenForensics,ViT (no aug),0.4509327881420905
+CS,1,Cross: OpenForensics,RViT-D,0.4454716163512928
+CS,1,Cross: 140k Real and Fake Faces,ViT (no aug),0.4058767319636885
+CS,1,Cross: 140k Real and Fake Faces,RViT-D,0.39549883887598747
+CS,2,Intra: FF++ test,ViT (no aug),0.8773344178998039
+CS,2,Intra: FF++ test,RViT-D,0.8838473881262258
+CS,2,Cross: OpenForensics,ViT (no aug),0.43917710196779963
+CS,2,Cross: OpenForensics,RViT-D,0.4434549272769698
+CS,2,Cross: 140k Real and Fake Faces,ViT (no aug),0.4047822753586151
+CS,2,Cross: 140k Real and Fake Faces,RViT-D,0.39547106078956434
+CS,3,Intra: FF++ test,ViT (no aug),0.8826606792654661
+CS,3,Intra: FF++ test,RViT-D,0.8801145480477803
+CS,3,Cross: OpenForensics,ViT (no aug),0.43089367659640665
+CS,3,Cross: OpenForensics,RViT-D,0.440577117523528
+CS,3,Cross: 140k Real and Fake Faces,ViT (no aug),0.4117212413471261
+CS,3,Cross: 140k Real and Fake Faces,RViT-D,0.39447660529561435
+CS,4,Intra: FF++ test,ViT (no aug),0.8902656444999109
+CS,4,Intra: FF++ test,RViT-D,0.8744874309146016
+CS,4,Cross: OpenForensics,ViT (no aug),0.4240991566572962
+CS,4,Cross: OpenForensics,RViT-D,0.4401104456716186
+CS,4,Cross: 140k Real and Fake Faces,ViT (no aug),0.4123212480138668
+CS,4,Cross: 140k Real and Fake Faces,RViT-D,0.39187102078911984
+CS,5,Intra: FF++ test,ViT (no aug),0.8936419147798181
+CS,5,Intra: FF++ test,RViT-D,0.8681026029595293
+CS,5,Cross: OpenForensics,ViT (no aug),0.41881020900232224
+CS,5,Cross: OpenForensics,RViT-D,0.43239924888054315
+CS,5,Cross: 140k Real and Fake Faces,ViT (no aug),0.4071823020255781
+CS,5,Cross: 140k Real and Fake Faces,RViT-D,0.3926710296781075
+CC,1,Intra: FF++ test,ViT (no aug),0.8947951952219646
+CC,1,Intra: FF++ test,RViT-D,0.8896750757710823
+CC,1,Cross: OpenForensics,ViT (no aug),0.4766886298736652
+CC,1,Cross: OpenForensics,RViT-D,0.4656551739463772
+CC,1,Cross: 140k Real and Fake Faces,ViT (no aug),0.370748563872932
+CC,1,Cross: 140k Real and Fake Faces,RViT-D,0.4010377893087701
+CC,2,Intra: FF++ test,ViT (no aug),0.8414657247281155
+CC,2,Intra: FF++ test,RViT-D,0.8903715011588518
+CC,2,Cross: OpenForensics,ViT (no aug),0.47622195802175576
+CC,2,Cross: OpenForensics,RViT-D,0.4717607973421927
+CC,2,Cross: 140k Real and Fake Faces,ViT (no aug),0.3540539339325992
+CC,2,Cross: 140k Real and Fake Faces,RViT-D,0.40020444671607464
+CC,3,Intra: FF++ test,ViT (no aug),0.7568806828311642
+CC,3,Intra: FF++ test,RViT-D,0.8882265109645213
+CC,3,Cross: OpenForensics,ViT (no aug),0.47205524505827845
+CC,3,Cross: OpenForensics,RViT-D,0.47702196691074344
+CC,3,Cross: 140k Real and Fake Faces,ViT (no aug),0.3550428338092645
+CC,3,Cross: 140k Real and Fake Faces,RViT-D,0.4013266814075712
+CC,4,Intra: FF++ test,ViT (no aug),0.6922635496523444
+CC,4,Intra: FF++ test,RViT-D,0.887608085220182
+CC,4,Cross: OpenForensics,ViT (no aug),0.4681829798108868
+CC,4,Cross: OpenForensics,RViT-D,0.48176646407182305
+CC,4,Cross: 140k Real and Fake Faces,ViT (no aug),0.3612762364026267
+CC,4,Cross: 140k Real and Fake Faces,RViT-D,0.39957666196291075
+CC,5,Intra: FF++ test,ViT (no aug),0.7028213585309323
+CC,5,Intra: FF++ test,RViT-D,0.8785489837760742
+CC,5,Cross: OpenForensics,ViT (no aug),0.45343281592017687
+CC,5,Cross: OpenForensics,RViT-D,0.4815275725285836
+CC,5,Cross: 140k Real and Fake Faces,ViT (no aug),0.3667374081934243
+CC,5,Cross: 140k Real and Fake Faces,RViT-D,0.3979544217157968
+BW,1,Intra: FF++ test,ViT (no aug),0.9129412551256909
+BW,1,Intra: FF++ test,RViT-D,0.8839198163665538
+BW,1,Cross: OpenForensics,ViT (no aug),0.47836642629362547
+BW,1,Cross: OpenForensics,RViT-D,0.46952188357648417
+BW,1,Cross: 140k Real and Fake Faces,ViT (no aug),0.37392637695974396
+BW,1,Cross: 140k Real and Fake Faces,RViT-D,0.404493383259814
+BW,2,Intra: FF++ test,ViT (no aug),0.9297446068817972
+BW,2,Intra: FF++ test,RViT-D,0.8794515510786236
+BW,2,Cross: OpenForensics,ViT (no aug),0.44563272925254727
+BW,2,Cross: OpenForensics,RViT-D,0.4546494961055123
+BW,2,Cross: 140k Real and Fake Faces,ViT (no aug),0.35359281769797446
+BW,2,Cross: 140k Real and Fake Faces,RViT-D,0.3940821564684053
+BW,3,Intra: FF++ test,ViT (no aug),0.9184235157782136
+BW,3,Intra: FF++ test,RViT-D,0.8826718220716705
+BW,3,Cross: OpenForensics,ViT (no aug),0.43731041456016173
+BW,3,Cross: OpenForensics,RViT-D,0.45494394382159803
+BW,3,Cross: 140k Real and Fake Faces,ViT (no aug),0.3934543717152413
+BW,3,Cross: 140k Real and Fake Faces,RViT-D,0.3907598973321926
+BW,4,Intra: FF++ test,ViT (no aug),0.9245687733998931
+BW,4,Intra: FF++ test,RViT-D,0.8806048315207702
+BW,4,Cross: OpenForensics,ViT (no aug),0.45673285258725094
+BW,4,Cross: OpenForensics,RViT-D,0.45623840264891835
+BW,4,Cross: 140k Real and Fake Faces,ViT (no aug),0.4318214646829409
+BW,4,Cross: 140k Real and Fake Faces,RViT-D,0.4036544850498338
+BW,5,Intra: FF++ test,ViT (no aug),0.9153815296844358
+BW,5,Intra: FF++ test,RViT-D,0.8854686664289534
+BW,5,Cross: OpenForensics,ViT (no aug),0.4343381593128812
+BW,5,Cross: OpenForensics,RViT-D,0.45864954055045054
+BW,5,Cross: 140k Real and Fake Faces,ViT (no aug),0.4174601940021556
+BW,5,Cross: 140k Real and Fake Faces,RViT-D,0.40609895665507395
+GNC,1,Intra: FF++ test,ViT (no aug),0.7603516669638081
+GNC,1,Intra: FF++ test,RViT-D,0.8558065163130683
+GNC,1,Cross: OpenForensics,ViT (no aug),0.4422660251780576
+GNC,1,Cross: OpenForensics,RViT-D,0.45850509450105
+GNC,1,Cross: 140k Real and Fake Faces,ViT (no aug),0.5525172501916689
+GNC,1,Cross: 140k Real and Fake Faces,RViT-D,0.3937377081967577
+GNC,2,Intra: FF++ test,ViT (no aug),0.6998406578712784
+GNC,2,Intra: FF++ test,RViT-D,0.8433154305580317
+GNC,2,Cross: OpenForensics,ViT (no aug),0.4258547317192414
+GNC,2,Cross: OpenForensics,RViT-D,0.4844998277758642
+GNC,2,Cross: 140k Real and Fake Faces,ViT (no aug),0.5429282547583862
+GNC,2,Cross: 140k Real and Fake Faces,RViT-D,0.38988210980122
+GNC,3,Intra: FF++ test,ViT (no aug),0.6523778748440008
+GNC,3,Intra: FF++ test,RViT-D,0.808533160991264
+GNC,3,Cross: OpenForensics,ViT (no aug),0.4198435538172647
+GNC,3,Cross: OpenForensics,RViT-D,0.5012611251236125
+GNC,3,Cross: 140k Real and Fake Faces,ViT (no aug),0.5539283769819665
+GNC,3,Cross: 140k Real and Fake Faces,RViT-D,0.3829820331337015
+GNC,4,Intra: FF++ test,ViT (no aug),0.6295184079158496
+GNC,4,Intra: FF++ test,RViT-D,0.7852279818149401
+GNC,4,Cross: OpenForensics,ViT (no aug),0.39432660362892924
+GNC,4,Cross: OpenForensics,RViT-D,0.5128556983966489
+GNC,4,Cross: 140k Real and Fake Faces,ViT (no aug),0.533639262658474
+GNC,4,Cross: 140k Real and Fake Faces,RViT-D,0.4258491761019567
+GNC,5,Intra: FF++ test,ViT (no aug),0.5478304956320199
+GNC,5,Intra: FF++ test,RViT-D,0.7107494651453022
+GNC,5,Cross: OpenForensics,ViT (no aug),0.45979955332837036
+GNC,5,Cross: OpenForensics,RViT-D,0.5131834798164424
+GNC,5,Cross: 140k Real and Fake Faces,ViT (no aug),0.4739497105523395
+GNC,5,Cross: 140k Real and Fake Faces,RViT-D,0.4161490683229814
+GB,1,Intra: FF++ test,ViT (no aug),0.6646293902656446
+GB,1,Intra: FF++ test,RViT-D,0.8705818773399894
+GB,1,Cross: OpenForensics,ViT (no aug),0.5104001155568395
+GB,1,Cross: OpenForensics,RViT-D,0.5063778486427627
+GB,1,Cross: 140k Real and Fake Faces,ViT (no aug),0.3599039989333215
+GB,1,Cross: 140k Real and Fake Faces,RViT-D,0.39300992233247034
+GB,2,Intra: FF++ test,ViT (no aug),0.6129824835086468
+GB,2,Intra: FF++ test,RViT-D,0.8632276252451418
+GB,2,Cross: OpenForensics,ViT (no aug),0.5365059611773464
+GB,2,Cross: OpenForensics,RViT-D,0.5232669251880577
+GB,2,Cross: 140k Real and Fake Faces,ViT (no aug),0.3985099834442605
+GB,2,Cross: 140k Real and Fake Faces,RViT-D,0.3860209557883977
+GB,3,Intra: FF++ test,ViT (no aug),0.555379746835443
+GB,3,Intra: FF++ test,RViT-D,0.8501849705829916
+GB,3,Cross: OpenForensics,ViT (no aug),0.5526339181546461
+GB,3,Cross: OpenForensics,RViT-D,0.5314781275347504
+GB,3,Cross: 140k Real and Fake Faces,ViT (no aug),0.431543683818709
+GB,3,Cross: 140k Real and Fake Faces,RViT-D,0.38059311770130777
+GB,4,Intra: FF++ test,ViT (no aug),0.5446102246389731
+GB,4,Intra: FF++ test,RViT-D,0.8320277678730612
+GB,4,Cross: OpenForensics,ViT (no aug),0.5488283203146702
+GB,4,Cross: OpenForensics,RViT-D,0.5369170768564095
+GB,4,Cross: 140k Real and Fake Faces,ViT (no aug),0.4270047444971611
+GB,4,Cross: 140k Real and Fake Faces,RViT-D,0.3768486316514629
+GB,5,Intra: FF++ test,ViT (no aug),0.5377741130326261
+GB,5,Intra: FF++ test,RViT-D,0.8217596719557853
+GB,5,Cross: OpenForensics,ViT (no aug),0.549778330870343
+GB,5,Cross: OpenForensics,RViT-D,0.5543561595128834
+GB,5,Cross: 140k Real and Fake Faces,ViT (no aug),0.419715774619718
+GB,5,Cross: 140k Real and Fake Faces,RViT-D,0.38253202813364595
+JPEG,1,Intra: FF++ test,ViT (no aug),0.793401230165805
+JPEG,1,Intra: FF++ test,RViT-D,0.8704370208593333
+JPEG,1,Cross: OpenForensics,ViT (no aug),0.4816720185779842
+JPEG,1,Cross: OpenForensics,RViT-D,0.4956999522216914
+JPEG,1,Cross: 140k Real and Fake Faces,ViT (no aug),0.3513650151668352
+JPEG,1,Cross: 140k Real and Fake Faces,RViT-D,0.39250436115956844
+JPEG,2,Intra: FF++ test,ViT (no aug),0.8190575414512391
+JPEG,2,Intra: FF++ test,RViT-D,0.8662361829203067
+JPEG,2,Cross: OpenForensics,ViT (no aug),0.47892754363937373
+JPEG,2,Cross: OpenForensics,RViT-D,0.5059945110501228
+JPEG,2,Cross: 140k Real and Fake Faces,ViT (no aug),0.38199868887432087
+JPEG,2,Cross: 140k Real and Fake Faces,RViT-D,0.38873765264058485
+JPEG,3,Intra: FF++ test,ViT (no aug),0.7746088875022284
+JPEG,3,Intra: FF++ test,RViT-D,0.8536838117311464
+JPEG,3,Cross: OpenForensics,ViT (no aug),0.4761664018489094
+JPEG,3,Cross: OpenForensics,RViT-D,0.5267558528428093
+JPEG,3,Cross: 140k Real and Fake Faces,ViT (no aug),0.37415415726841417
+JPEG,3,Cross: 140k Real and Fake Faces,RViT-D,0.3901043344926055
+JPEG,4,Intra: FF++ test,ViT (no aug),0.7478550098056695
+JPEG,4,Intra: FF++ test,RViT-D,0.8208236762346229
+JPEG,4,Cross: OpenForensics,ViT (no aug),0.5031722574695274
+JPEG,4,Cross: OpenForensics,RViT-D,0.5284725385837621
+JPEG,4,Cross: 140k Real and Fake Faces,ViT (no aug),0.3723541372681919
+JPEG,4,Cross: 140k Real and Fake Faces,RViT-D,0.38403204480049774
+JPEG,5,Intra: FF++ test,ViT (no aug),0.7188725708682475
+JPEG,5,Intra: FF++ test,RViT-D,0.8263672223212694
+JPEG,5,Cross: OpenForensics,ViT (no aug),0.46767741863798484
+JPEG,5,Cross: OpenForensics,RViT-D,0.5484283158701763
+JPEG,5,Cross: 140k Real and Fake Faces,ViT (no aug),0.37244858276203074
+JPEG,5,Cross: 140k Real and Fake Faces,RViT-D,0.39762664029600325
